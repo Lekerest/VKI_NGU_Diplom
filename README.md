@@ -18,8 +18,7 @@
   <img src="Image/Sd6065d17531b4bbda5b66bc2c6317f6cQ 1.jpg" alt="Описание изображения">
 </details>
 
-1. Блок Питания
-2. Ультразвуковой датчик ***RCWL-1670***
+4. [Ультразвуковой датчик ***RCWL-1670***](https://amperkot.ru/msk/catalog/datchik_urovnya_vodyi_rcwl1670_ultrazvukovoy_335v_15_mka-40125591.html?srsltid=AfmBOop5HNY47JB7gNTX6L6XEZXqf481btrm2yCJ1y2oIrMoWw0PExUi)
 <details>
   <summary>Показать изображение</summary>
   <img src="Image/rcwl.jpg" alt="Описание изображения">
