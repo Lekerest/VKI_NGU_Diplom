@@ -12,7 +12,7 @@
   <img src="Image/nema.jpg" alt="Описание изображения">
 </details>
 
-1. [3 Драйвера для ***ШД DM542***](https://aliexpress.ru/item/1005005264850020.html?sku_id=12000032911624793&spm=a2g2w.productlist.search_results.2.fa701b2bq0H6ed)
+3. [3 Драйвера для ***ШД DM542***](https://aliexpress.ru/item/1005005264850020.html?sku_id=12000032911624793&spm=a2g2w.productlist.search_results.2.fa701b2bq0H6ed)
 <details>
   <summary>Показать изображение</summary>
   <img src="Image/Sd6065d17531b4bbda5b66bc2c6317f6cQ 1.jpg" alt="Описание изображения">
