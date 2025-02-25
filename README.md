@@ -18,5 +18,6 @@
   <img src="Image/Sd6065d17531b4bbda5b66bc2c6317f6cQ 1.jpg" alt="Описание изображения">
 </details>
 
+___
 >Этот файл был синхронизирован с Obsidian
 >[Инструкция как сделать также](https://habr.com/ru/articles/843288/)
