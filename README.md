@@ -97,6 +97,18 @@
 
 ##  💖Arduino UNO должна включиться и замигать светодиод на ней, БП должен начать работать, это можно заметить по жужжанию БП. На DM542 загорится лампочка. Если все получилось то поздравляю можно писать скетч в Arduino IDE.
 
+1. Подключение питания
+	1. vfvffsfsdfsdfds
+	2. vfvffsfsdfsdfds
+	3. vfvffsfsdfsdfds
+	4. vfvffsfsdfsdfds
+	5. vfvffsfsdfsdfds
+2. vfvffsfsdfsdfdsfddfsdsf
+	1. vfvffsfsdfsdfdsvfvffsfsdfsdfds
+	2. vfvffsfsdfsdfdsvfvffsfsdfsdfds
+	3. vfvffsfsdfsdfdsvfvffsfsdfsdfds
+	4. vfvffsfsdfsdfdsvfvffsfsdfsdfds
+
 
 
 >Этот файл был синхронизирован с Obsidian
