@@ -22,7 +22,7 @@
 2. Ультразвуковой датчик ***RCWL-1670***
 <details>
   <summary>Показать изображение</summary>
-  <img src="Image/Sd6065d17531b4bbda5b66bc2c6317f6cQ 1.jpg" alt="Описание изображения">
+  <img src="Image/rcwl.jpg" alt="Описание изображения">
 </details>
 ___
 ## ℹ️ Описание
