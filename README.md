@@ -126,10 +126,11 @@
     <img src="Image/albom_diplom_5.jpg" alt="Описание изображения">
     <img src="Image/albom_diplom_6.jpg" alt="Описание изображения">
     <img src="Image/albom_diplom_7.jpg" alt="Описание изображения">
-<video width="320" height="240" controls>
+
+  <video width="320" height="240" controls>
   <source src="video_1.mp4" type="video/mp4">
-</video>
-  </details>
+  </video>
+</details>
 
 <br>
 
