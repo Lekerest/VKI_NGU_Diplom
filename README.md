@@ -112,7 +112,7 @@
    <details>
     <summary>Выглядит как-то так(нажать надо)</summary>
     <img src="Image/gui.jpg" alt="Описание изображения">
-     [Ознакомиться с описанием GUI](https://github.com/Lekerest/VKI_NGU_Diplom/blob/main/Python_GUI/README_GUI.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA%D0%B0-flet)
+     Ознакомиться с описанием GUI
   </details>
 
 <br>
