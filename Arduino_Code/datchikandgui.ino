@@ -51,6 +51,7 @@ void loop() {
     if (distance >= thresholdDistance) {
       for (int i = 0; i < 3; i++) {
         motorRunning[i] = false;
+        Serial.println("BREAK")
       }
     }
   }
